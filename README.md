@@ -32,4 +32,4 @@ Hey guys, my name is Marco!👋
     </a>
 </div>
 
-![Snake animation](https://github.com/MarcoALR/github-contribution-grid-snake.svg)
+(https://github.com/MarcoALR/github-contribution-grid-snake.svg)
