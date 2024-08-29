@@ -1,10 +1,9 @@
 Hey guys, my name is Marco!👋
 <div>
-  <img  height="185em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=chartreuse-dark-gatsby"/>
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
