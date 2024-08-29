@@ -31,5 +31,5 @@ Hey guys, my name is Marco!👋
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/MarcoALR/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/MarcoALR/github-contribution-grid-snake.svg)
