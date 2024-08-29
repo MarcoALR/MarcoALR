@@ -1,7 +1,7 @@
 Hey guys, my name is Marco!👋
 <div>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=chartreuse-dark-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=chartreuse-darkby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 <div  align="center"> 
