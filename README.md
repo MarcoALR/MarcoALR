@@ -14,7 +14,7 @@ Hey guys, my name is Marco!👋
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    </div>
   <h1 align="center">Redes Sociais</h1>
-    <a href = "marcoalrprofissional@gmail.com">
+    <a href = "mailto: work.luigi.marcoalrprofissional@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/marco-ant%C3%B4nio-79aab82bb/">
