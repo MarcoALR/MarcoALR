@@ -1,5 +1,4 @@
-<h1> Hey guys, my name is Marco!👋</h1>
-  <a href="https://marcoalr.github.io/ProjetoLinkTree/" target="_blank" ><i class="fa-solid fa-link"></i></a>
+ <a href="https://marcoalr.github.io/ProjetoLinkTree/" target="_blank" ><h1> Hey guys, my name is Marco!👋</h1></a>
 <div>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=great-gatsby"/>
