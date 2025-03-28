@@ -4,7 +4,7 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 
 ## 🚀 Meu Projeto
 
-🔗 [Acesse o Projeto LinkTree](https://marcoalr.github.io/ProjetoLinkTree/)
+🔗 <a href="https://marcoalr.github.io/ProjetoLinkTree/" target="_self">Acesse o Projeto LinkTree</a>
 
 ## 📊 GitHub Stats
 
@@ -31,4 +31,4 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 
 ---
 
-📌 Sinta-se à vontade para contribuir e compartilhar este projeto! 😃
+📌 Sinta-se à vontade para contribuir e compartilhar meus projetos! 😃
