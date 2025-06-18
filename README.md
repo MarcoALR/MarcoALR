@@ -35,6 +35,7 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcoALR/MarcoALR/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+
 ---
 
 ## 🌐 Social Media
