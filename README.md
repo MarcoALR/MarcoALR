@@ -1,21 +1,23 @@
 # Hey guys, my name is Marco! 👋
 
-Bem-vindo ao meu projeto **LinkTree**!  
-Aqui você pode acessar rapidamente meus links e redes sociais de forma organizada.
+Bem-vindo ao meu README!  
+Acesse meu projeto **LinkTree** para acessar rapidamente meus links e redes sociais de forma organizada.  
+E se você quiser ver a previsão do tempo da sua cidade, tenho um outro projeto bem interessante também. 🌦️
 
 ---
 
-## 🚀 Projetos
+## 🚀 Meus Projetos
 
-<p align="center">
+<p>
   <a href="https://marcoalr.github.io/ProjetoLinkTree/">
-    <img src="https://img.shields.io/badge/Projeto_LinkTree-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto LinkTree" />
-  </a>
-<p  align="center">
-  <a href="https://prevdo-tempo.vercel.app/">
-    <img src="https://img.shields.io/badge/Projeto_Previsao_do_Tempo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto Previsão do Tempo" />
+    <img src="https://img.shields.io/badge/Acesse_o_Projeto_LinkTree-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto LinkTree" />
   </a>
 </p>
+
+<p>
+  <a href="https://prevdo-tempo.vercel.app/">
+    <img src="https://img.shields.io/badge/Acesse_o_Projeto_Previsao_do_Tempo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto Previsão do Tempo" />
+  </a>
 </p>
 
 ---
