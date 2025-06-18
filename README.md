@@ -35,3 +35,4 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 ---
 
 ![snake gif](https://github.com/MarcoALR/MarcoALR/blob/output/github-contribution-grid-snake-dark.svg)
+
