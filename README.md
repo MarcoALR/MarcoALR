@@ -31,3 +31,7 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 ---
 
 📌 Sinta-se à vontade para contribuir e compartilhar meus projetos! 😃
+
+---
+
+![snake gif](https://github.com/MarcoALR/MarcoALR/blob/output/github-contribution-grid-snake-dark.svg)
