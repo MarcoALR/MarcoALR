@@ -5,11 +5,14 @@ Aqui você pode acessar rapidamente meus links e redes sociais de forma organiza
 
 ---
 
-## 🚀 Meu Projeto
+## 🚀 Projetos
 
 <p align="center">
   <a href="https://marcoalr.github.io/ProjetoLinkTree/">
     <img src="https://img.shields.io/badge/Acesse_o_Projeto_LinkTree-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto LinkTree" />
+  </a>
+  <a href="https://prevdo-tempo.vercel.app/">
+    <img src="https://img.shields.io/badge/Acesse_o_Projeto_LinkTree-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Projeto Previsão do Tempo" />
   </a>
 </p>
 
