@@ -15,7 +15,7 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&token=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"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=great-gatsby&token=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"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoALR&theme=chartreuse-dark"/>
+ 
 </div>
 
 ---
