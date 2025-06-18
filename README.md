@@ -4,22 +4,29 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 
 ## 🚀 Meu Projeto
 
-🔗 <a href="https://marcoalr.github.io/ProjetoLinkTree/" target="_self">Acesse o Projeto LinkTree</a>
+🔗 [Acesse o Projeto LinkTree](https://marcoalr.github.io/ProjetoLinkTree/)
+
+---
 
 ## 📊 GitHub Stats
 
-<div>
+<!-- 🔥 Para evitar erro nos commits privados, você pode gerar um TOKEN e usar como param: &token=YOUR_TOKEN -->
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+
+---
 
 ## 🎈 Melhores Tecnologias
 
 <div style="display: inline_block"><br>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+---
 
 ## 🌐 Redes Sociais
 
@@ -34,5 +41,6 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 
 ---
 
-![snake gif](https://github.com/MarcoALR/MarcoALR/blob/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Snake Contributions
 
+![snake gif](https://github.com/MarcoALR/MarcoALR/blob/output/github-contribution-grid-snake-dark.svg)
