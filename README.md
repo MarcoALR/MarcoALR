@@ -28,19 +28,21 @@ Bem-vindo ao meu projeto LinkTree! Aqui você pode acessar rapidamente meus link
 
 ---
 
-## 🌐 Redes Sociais
+<!-- GitHub Stats -->
+![Marco's github stats](https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=chartreuse-dark) | ![Marco GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoALR&theme=chartreuse-dark) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&theme=chartreuse-dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=chartreuse-dark) |
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.luigi.marcoalrprofissional@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-79aab82bb/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AdemiroON_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_032_/)
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcoALR/MarcoALR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcoALR/MarcoALR/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcoALR/MarcoALR/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+<!-- Social Media -->
+<b><h3>Social media</h3></b>
 
-📌 Sinta-se à vontade para contribuir e compartilhar meus projetos! 😃
-
----
-
-## 🐍 Snake Contributions
-
-![snake gif](https://github.com/MarcoALR/MarcoALR/blob/output/github-contribution-grid-snake-dark.svg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_linkedin_aqui/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MarcoALR-)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_alr_)
