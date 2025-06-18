@@ -43,7 +43,7 @@
 
 ---
 
-## 🌐 Social Media
+## 🌐 Outros links...
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-79aab82bb/" target="_blank">
