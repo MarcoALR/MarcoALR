@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 0 * * *"  # roda todo dia
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: MarcoALR
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            ./dist/github-contribution-grid-snake.svg
+            ./dist/github-contribution-grid-snake-dark.svg
 
       - name: Push SVG to output branch
-        uses: EndBug/add-and-commit@v9
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "chore: generate snake svg"
-          add: "dist/*.svg"
-          default_author: github_actions
-          new_branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
