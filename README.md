@@ -21,6 +21,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=github_light" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/MarcoALR/metrics/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarcoALR&theme=flat&no-frame=true&column=4&row=1" />
