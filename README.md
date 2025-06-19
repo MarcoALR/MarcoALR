@@ -20,13 +20,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=github_light" />
 </p>
-
 <p align="center">
-  <img src="https://github.com/MarcoALR/metrics/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoALR&theme=flat&no-frame=true&column=4&row=1" />
+  <img src="https://img.shields.io/github/followers/MarcoALR?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/stars/MarcoALR?label=Stars&style=social" />
 </p>
 
 ---
