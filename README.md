@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MarcoALR/MarcoALR/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
