@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoALR/MarcoALR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="assets/github-contribution-grid-snake.svg.svg" alt="Snake animation" />
 </p>
 
 ---
