@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=github_light&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=github_light"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=github_light"/>
 </p>
 <p align="center">
