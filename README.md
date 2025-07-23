@@ -58,7 +58,7 @@
 </p>
 <img 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:181717,100:0d1117&opacity=40"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=181717&opacity=60"
 />
 
 
