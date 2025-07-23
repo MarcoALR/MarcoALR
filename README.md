@@ -56,4 +56,4 @@
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,50:6e00ff,100:00bfff"/>
