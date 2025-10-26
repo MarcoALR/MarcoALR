@@ -14,19 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcoALR&show_icons=true&theme=github_light"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoALR&layout=compact&langs_count=16&theme=github_light"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MarcoALR?label=Seguidores&style=social" />
-  <img src="https://img.shields.io/github/stars/MarcoALR?label=Stars&style=social" />
-</p>
-
----
-
 ## 🎈 Melhores Tecnologias
 
 <p align="center">
