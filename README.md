@@ -10,7 +10,7 @@
 
 [![Acesse o Projeto LinkTree](https://img.shields.io/badge/Acesse_o_Projeto_LinkTree-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://marcoalr.github.io/ProjetoLinkTree/)
 
-[![Acesse Meu Projeto Gerador de Qr Code que nunca expiram](https://img.shields.io/badge/Acesse Meu Projeto Gerador de Qr Code que nunca expiram-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://gerador-qr-taupe.vercel.app/)
+[![Acesse Meu Projeto Gerador de Qr Code que nunca expiram](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://gerador-qr-taupe.vercel.app/)
 
 [![Acesse o Projeto Previsao do Tempo](https://img.shields.io/badge/Acesse_o_Projeto_Previsao_do_Tempo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://prevdo-tempo.vercel.app/)
 
